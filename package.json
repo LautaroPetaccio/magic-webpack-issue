@@ -25,7 +25,6 @@
   "dependencies": {
     "@magic-ext/oauth": "^15.4.1",
     "ajv": "^8.12.0",
-    "decentraland-connect": "file:../repositories/decentraland-connect/decentraland-connect-0.0.1-development.tgz",
     "magic-sdk": "^21.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
